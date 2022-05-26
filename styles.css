@@ -503,6 +503,10 @@ footer{
        width: 100%;
     }
 
+    .about-me__info--para{
+        padding: 20px;
+    }
+
     .project__description--para{
         display: none;
     }
